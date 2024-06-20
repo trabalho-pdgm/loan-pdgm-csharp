@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\valen\\source\\repos\\LoanApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{378C3844-ECA5-4197-BE34-CC4905E6DFEA}|LocalLoanTest\\LocalLoanTest.csproj|c:\\users\\valen\\source\\repos\\loanapp\\localloantest\\internationalloantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378C3844-ECA5-4197-BE34-CC4905E6DFEA}|LocalLoanTest\\LocalLoanTest.csproj|solutionrelative:localloantest\\internationalloantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9988E062-DF18-437E-B0B0-D02E221B2B9C}|LoanApp\\LoanApp.csproj|c:\\users\\valen\\source\\repos\\loanapp\\loanapp\\internationalloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9988E062-DF18-437E-B0B0-D02E221B2B9C}|LoanApp\\LoanApp.csproj|solutionrelative:loanapp\\internationalloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378C3844-ECA5-4197-BE34-CC4905E6DFEA}|LocalLoanTest\\LocalLoanTest.csproj|c:\\users\\valen\\source\\repos\\loanapp\\localloantest\\localloantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378C3844-ECA5-4197-BE34-CC4905E6DFEA}|LocalLoanTest\\LocalLoanTest.csproj|solutionrelative:localloantest\\localloantest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9988E062-DF18-437E-B0B0-D02E221B2B9C}|LoanApp\\LoanApp.csproj|c:\\users\\valen\\source\\repos\\loanapp\\loanapp\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9988E062-DF18-437E-B0B0-D02E221B2B9C}|LoanApp\\LoanApp.csproj|solutionrelative:loanapp\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9988E062-DF18-437E-B0B0-D02E221B2B9C}|LoanApp\\LoanApp.csproj|c:\\users\\valen\\source\\repos\\loanapp\\loanapp\\localloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9988E062-DF18-437E-B0B0-D02E221B2B9C}|LoanApp\\LoanApp.csproj|solutionrelative:loanapp\\localloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9988E062-DF18-437E-B0B0-D02E221B2B9C}|LoanApp\\LoanApp.csproj|c:\\users\\valen\\source\\repos\\loanapp\\loanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9988E062-DF18-437E-B0B0-D02E221B2B9C}|LoanApp\\LoanApp.csproj|solutionrelative:loanapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InternationalLoanTest.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\LoanApp\\LocalLoanTest\\InternationalLoanTest.cs",
+              "RelativeDocumentMoniker": "LocalLoanTest\\InternationalLoanTest.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\LoanApp\\LocalLoanTest\\InternationalLoanTest.cs",
+              "RelativeToolTip": "LocalLoanTest\\InternationalLoanTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:50:58.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalLoanTest.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\LoanApp\\LocalLoanTest\\LocalLoanTest.cs",
+              "RelativeDocumentMoniker": "LocalLoanTest\\LocalLoanTest.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\LoanApp\\LocalLoanTest\\LocalLoanTest.cs",
+              "RelativeToolTip": "LocalLoanTest\\LocalLoanTest.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:39:53.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InternationalLoan.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\LoanApp\\LoanApp\\InternationalLoan.cs",
+              "RelativeDocumentMoniker": "LoanApp\\InternationalLoan.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\LoanApp\\LoanApp\\InternationalLoan.cs",
+              "RelativeToolTip": "LoanApp\\InternationalLoan.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:34:54.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocalLoan.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\LoanApp\\LoanApp\\LocalLoan.cs",
+              "RelativeDocumentMoniker": "LoanApp\\LocalLoan.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\LoanApp\\LoanApp\\LocalLoan.cs",
+              "RelativeToolTip": "LoanApp\\LocalLoan.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:25:48.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\LoanApp\\LoanApp\\Loan.cs",
+              "RelativeDocumentMoniker": "LoanApp\\Loan.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\LoanApp\\LoanApp\\Loan.cs",
+              "RelativeToolTip": "LoanApp\\Loan.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:20:54.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valen\\source\\repos\\LoanApp\\LoanApp\\Program.cs",
+              "RelativeDocumentMoniker": "LoanApp\\Program.cs",
+              "ToolTip": "C:\\Users\\valen\\source\\repos\\LoanApp\\LoanApp\\Program.cs",
+              "RelativeToolTip": "LoanApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:19:58.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
